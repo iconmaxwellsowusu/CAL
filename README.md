@@ -8,3 +8,4 @@ Upcoming update to be done
 7. user page ristrictions  -
 8. removing stars from sms  -
 9. prompt user when a car is full   -
+10. display all data if admin logs in -
